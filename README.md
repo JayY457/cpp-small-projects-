@@ -1,2 +1,2 @@
-# c-small-projects-
+# cpp-small-projects-
 新手学习项目
